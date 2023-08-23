@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Experience
-subtitle:
+title: Experiência
+subtitle: Últimas experiências profissionais
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -22,13 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+  - title: Co-fundador
+    company: Estação Primeira de Mangueira
+    company_url: 'https://mangueira.com.br/'
+    company_logo:
+    location: Rio de Janeiro
+    date_start: '1928-04-28'
+    date_end: '1980-11-30'
     description: |2-
         Responsibilities include:
         
@@ -36,13 +36,13 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Compositor
+    company: Autônomo
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    company_logo:
+    location: Rio de Janeiro
+    date_start: '1930-01-01'
+    date_end: '1980-11-30'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:

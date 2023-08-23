@@ -34,6 +34,8 @@ content:
       tag: CV
     - name: NLP
       tag: NLP
+    - name: Música
+      tag: musica
 
 design:
   columns: '1'
